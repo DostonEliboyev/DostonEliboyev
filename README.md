@@ -16,13 +16,6 @@ Welcome to my GitHub profile! 🚀 I'm a **Front-End Developer** with 4+ years o
 
 ---
 
-## 🎯 Current Goals
-
-- 🌍 Transitioning from freelancer to **business owner** by offering professional web development services.  
-- 🏆 Mastering **React** and **AI technologies** for future projects.  
-- 🎓 Continually improving my **English** and expanding my tech stack.  
-
----
 
 ## 🔧 Technologies & Tools
 
@@ -31,19 +24,5 @@ Welcome to my GitHub profile! 🚀 I'm a **Front-End Developer** with 4+ years o
 - **Testing**: Jest, React Testing Library.  
 
 ---
-
-## 🌟 Fun Facts About Me
-
-- 🚗 Interested in **electric cars** and exploring their technology.  
-- 💡 Passionate about **personal growth** and productivity hacks.  
-- 🎸 Enjoy listening to music and learning new skills in my free time.  
-
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Portfolio](https://your-portfolio.com)  
-- ✉️ [Email Me](mailto:your-email@example.com)  
 
 Thanks for visiting! Let's collaborate and create something amazing together. 🚀  
